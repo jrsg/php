@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Build Status](https://travis-ci.org/jrsg/php.svg?branch=master)](https://travis-ci.org/jrsg/php)
+
 [Acerca de](about.md)
 
 [Contacto](contact.html)
