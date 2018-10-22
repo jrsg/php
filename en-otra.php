@@ -1,0 +1,4 @@
+<?php
+
+eco 'Otra prueba';
+?>
