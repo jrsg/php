@@ -1,4 +1,4 @@
 <?php
 
-eco 'Otra prueba';
+echo 'Otra prueba';
 ?>
