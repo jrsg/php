@@ -1,3 +1,3 @@
 <?php
-eco 'Hola mundo';
+echo 'Hola mundo';
 ?>
