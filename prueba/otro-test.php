@@ -1,0 +1,3 @@
+<?php
+eco 'otra prueba';
+?>
