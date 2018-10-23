@@ -1,3 +1,4 @@
 <?php
-ec 'Hola mundo';
+echo 'Hola mundo';
+funcion_no_existe();
 ?>
